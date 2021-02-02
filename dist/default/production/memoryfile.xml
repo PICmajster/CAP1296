@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\pic18f47q84_CAP1296.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>538</used>
+      <free>130534</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>13056</length>
+      <used>48</used>
+      <free>13008</free>
+    </memory>
+  </executable>
+</project>
